@@ -1,2 +1,2 @@
 #!/bin/bash
-List file contents
+List content
