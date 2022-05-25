@@ -1,2 +1,2 @@
 #!/bin/bash
-Absolute path name script
+List file contents
